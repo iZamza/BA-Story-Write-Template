@@ -1,4 +1,4 @@
-#User Story Template ✍
+##User Story Template ✍
 - 🔥 When creating a story, use the template **SBA Story Writing** (the template will be chosen automatically for Issue Type = Story New).
 - 🔥 Please use the exact same structure, spacing/tabulation and formatting.
 - 🔥 Sections **Business Value, Description, Acceptance Criteria** are mandatory.
